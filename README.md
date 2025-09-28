@@ -8,35 +8,32 @@ _B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Te
 
 <br/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
 ## Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SaiAshwathaSingari/)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SaiAshwathaSingari?theme=dark&font=baloo&ext=heatmap)
 
+---
 
-## Hi — I’m Singari Sai Ashwatha
+## About Me
 - 📍 Manipal, India  
-- 🎓 B.Tech — Computer & Communication Engineering (Batch 2023–2027), Manipal Institute of Technology — **CGPA: 8.71**.  
-- 🔭 I build full-stack web apps (MERN), real-time features (Socket.IO), and backend APIs.  
+- 🎓 B.Tech — Computer & Communication Engineering (Batch 2023–2027), Manipal Institute of Technology — **CGPA: 8.71**  
+- 🔭 I build full-stack web apps (MERN), real-time features, and backend APIs  
 
 ---
 
 ## Experience
 **Full Stack Developer Intern — EmergX** (Jul 2025 – Sep 2025)  
-- Built and improved MERN-stack features, added JWT & Google Sign-In and secured API routes.  
-- Designed REST APIs and optimized DB queries for performance.  
-- Integrated third-party APIs and reduced redundant network calls.  
-- Contributed to code reviews, tests and documentation.  
+- Built and improved MERN-stack features, added JWT & Google Sign-In and secured API routes  
+- Designed REST APIs and optimized DB queries for performance  
+- Integrated third-party APIs and reduced redundant network calls  
+- Contributed to code reviews, tests, and documentation  
 
 ---
 
 ## Selected Projects
 ### InstaConnect
-- Real-time chat application using **React**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**.  
-- Implements sessions, WebSocket event handling, message broadcasting and presence indicators.  
-- Responsive frontend + modular backend with message persistence and history.  
+- Real-time chat application using **React**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**  
+- Implements sessions, WebSocket event handling, message broadcasting and presence indicators  
+- Responsive frontend + modular backend with message persistence and history  
 
 ---
 
@@ -63,18 +60,9 @@ _B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
 </div>
 
-
-
-**Languages:** C++, Java, C, JavaScript, Python, HTML, CSS  
+**Languages:** C++, Java, C, JavaScript, Python, HTML 
 **Frameworks & Tools:** Node.js, Express, React, Socket.IO, MongoDB, MySQL, Wireshark, Cisco Packet Tracer  
-**Concepts:** OOP, Data Structures & Algorithms, OS, Computer Networks, Digital Systems.  
-
----
-
-## Certifications
-- Node.js & MongoDB: Developing Back-end Database Applications.  
-- IBM — Cloud Native, DevOps, Agile, NoSQL fundamentals.  
-- JavaScript Programming Essentials.  
+**Concepts:** OOP, Data Structures & Algorithms, OS, Computer Networks, Digital Systems  
 
 ---
 
@@ -89,7 +77,5 @@ _B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Te
 
 ---
 
-## Want to collaborate?
-I’m open to internships, open-source contributions and interesting projects — ping me on email.  
-
----
+## Collaboration
+I’m open to internships, open-source contributions, and interesting projects — ping me on email.  
