@@ -9,8 +9,14 @@ _B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Te
 <br/>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+## Competitive Programming
 
-## Hi — I’m Singari
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SaiAshwathaSingari/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SaiAshwathaSingari?theme=dark&font=baloo&ext=heatmap)
+
+
+## Hi — I’m Singari Sai Ashwatha
 - 📍 Manipal, India  
 - 🎓 B.Tech — Computer & Communication Engineering (Batch 2023–2027), Manipal Institute of Technology — **CGPA: 8.71**.  
 - 🔭 I build full-stack web apps (MERN), real-time features (Socket.IO), and backend APIs.  
@@ -56,6 +62,8 @@ _B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Te
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
 </div>
+
+
 
 **Languages:** C++, Java, C, JavaScript, Python, HTML, CSS  
 **Frameworks & Tools:** Node.js, Express, React, Socket.IO, MongoDB, MySQL, Wireshark, Cisco Packet Tracer  
