@@ -7,17 +7,11 @@
 </p>
 
 <div align="center">
-  <a href="mailto:singarisai777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
   <a href="https://www.linkedin.com/in/sai-ashwatha-singari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://leetcode.com/u/SaiAshwathaSingari/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
-  </a>
-  <a href="tel:+918074034506">
-    <img src="https://img.shields.io/badge/+91--8074034506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
   </a>
 </div>
 
@@ -33,6 +27,12 @@ B.Tech., Computer and Communication Engineering — **CGPA: 8.71 / 10**
 ---
 
 ## 💼 Experience
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/National_Instruments_logo_2020.svg" height="45" alt="NI logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/EmersonElectricLogo.png" height="45" alt="Emerson logo" />
+</p>
 
 ### Software Engineering Intern — NI (National Instruments), now part of Emerson
 *Jul 2026 – Jun 2027*
@@ -95,7 +95,7 @@ B.Tech., Computer and Communication Engineering — **CGPA: 8.71 / 10**
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiAshwathaSingari&theme=tokyonight&hide_border=true&background=1a1b27" height="170" alt="streak stats" />
+  <img src="./profile/streak.svg" height="170" alt="streak stats" />
 </div>
 
 <div align="center">
@@ -114,10 +114,23 @@ B.Tech., Computer and Communication Engineering — **CGPA: 8.71 / 10**
 
 ---
 
+## 📬 Contact
+
+<div align="center">
+  <a href="mailto:singarisai777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-singarisai777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="tel:+918074034506">
+    <img src="https://img.shields.io/badge/Phone-+91--8074034506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
+  </a>
+</div>
+
+---
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SaiAshwathaSingari/SaiAshwathaSingari/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SaiAshwathaSingari/SaiAshwathaSingari/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
