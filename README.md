@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Ashwatha Singari</h1>
 
-<h3 align="center">B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Technology — CGPA 8.71</h3>
+<h3 align="center">B.Tech (Computer & Communication Engineering) student @ Manipal Institute of Technology — CGPA 8.77</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+%40+NI+(Emerson);C%2B%2B+%7C+Systems+%7C+Full-Stack+Developer;MERN+Stack+%7C+GenAI+%7C+LangChain;Problem+Solver+on+LeetCode" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 ## 🎓 Education
 
 **Manipal Institute of Technology, Manipal, India** · *July 2023 – July 2027*
-B.Tech., Computer and Communication Engineering — **CGPA: 8.71 / 10**
+B.Tech., Computer and Communication Engineering — **CGPA: 8.77 / 10**
 
 > 📚 Coursework: Data Structures & Algorithms · Object Oriented Programming · Database Management Systems · Computer Networks · Embedded Systems · Operating Systems
 
